@@ -2,4 +2,4 @@ Actividad de Git
 
 Autor: Pablo Samperio Díez
 
-Versión: 1
+Versión: 2
