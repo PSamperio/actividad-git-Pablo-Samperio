@@ -1,5 +1,5 @@
 Actividad de Git 
 
-Autor: Pablo Samperio
+Autor: Pablo Samperio Díez
 
 Versión: 1
