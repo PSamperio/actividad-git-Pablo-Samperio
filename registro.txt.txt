@@ -2,4 +2,4 @@ Actividad de Git Numero 1
 
 Autor: Pablo Samperio Díez
 
-Versión: 2
+Versión: 4
